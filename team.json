@@ -1,0 +1,35 @@
+{
+    "team": [
+      {
+        "name": "Lorem Ipsum",
+        "title": "Lorem Ipsum",
+        "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.",
+        "image": "./assets/images/sixthRow2.png"
+      },
+      {
+        "name": "Dr. Delly Martin",
+        "title": "Principal Dentist",
+        "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.",
+        "image": "./assets/images/sixthRow3.png"
+      },
+      {
+        "name": "Lorem Ipsum",
+        "title": "Lorem Ipsum",
+        "description": "Quasi architecto beatae vitae dicta sunt explicabo. Ut enim ad minima veniam, quis nostrum exercitationem.",
+        "image": "./assets/images/sixthRow4.png"
+      },
+      {
+        "name": "Lorem Ipsum",
+        "title": "Lorem Ipsum",
+        "description": "Quis nostrum exercitationem ullam corporis suscipit laboriosam nisi ut aliquid ex ea commodi consequatur.",
+        "image": "./assets/images/sixthRow5.png"
+      },
+      {
+        "name": "Lorem Ipsum",
+        "title": "Lorem Ipsum",
+        "description": "Accusantium doloremque laudantium totam rem aperiam eaque ipsa quae ab illo inventore veritatis.",
+        "image": "./assets/images/sixthRow6.png"
+      }
+    ]
+  }
+  
