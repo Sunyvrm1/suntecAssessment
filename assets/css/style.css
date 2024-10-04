@@ -694,7 +694,7 @@ header i {
     overflow-x: hidden;
   }
   .banner {
-    height: 100vh !important;
+    height: 80vh !important;
   }
   .fifthBtnDiv {
     flex-direction: column;
@@ -704,7 +704,7 @@ header i {
     height: 400px !important;
   }
   .sliderBanner {
-    height: 100vh !important;
+    height: 80vh !important;
   }
   .bannerSliderButton {
     top: 520px !important;
