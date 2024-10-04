@@ -543,6 +543,7 @@ select {
 }
 .team-images {
   margin-bottom: 80px;
+  flex-wrap: wrap;
 }
 .team-images img {
   cursor: pointer;
